@@ -1,0 +1,3 @@
+alert('malicious code');
+DROP TABLE users;
+virus detected in system.
